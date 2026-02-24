@@ -60,25 +60,3 @@ The authoritative upgrade process is documented in:
 
 Always follow the documented runbook for production upgrades.
 
----
-
-# 📄 What to Add in Root README.md (Small Section)
-
-Later, in your main README, add something like:
-
----
-
-## Automation
-
-Optional helper scripts are available in the `scripts/` directory.
-
-These scripts must be reviewed and adjusted based on:
-
-* Target Kubernetes version
-* Cluster topology (single control plane vs HA)
-* Runtime configuration
-* Environment (lab vs production)
-
-Manual upgrade documentation remains the recommended approach.
-
----
