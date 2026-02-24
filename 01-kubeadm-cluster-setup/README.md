@@ -1,14 +1,3 @@
-Perfect 👏
-Your structure already looks clean from the screenshot. Let’s now make your **01-kubeadm-cluster-setup/README.md** look professional, practical, and written by a real DevOps engineer — not like copied documentation.
-
-You can paste the below directly into:
-
-```
-01-kubeadm-cluster-setup/README.md
-```
-
----
-
 # 01 – Kubernetes Cluster Setup using kubeadm (v1.34)
 
 ## 📌 Overview
